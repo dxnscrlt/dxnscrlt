@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [TBD]
 - 📫 How to reach me [TBD]
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The sum of the infinite series of 1/n! is based on the Taylor series representation of e^x when x = 1. (It's e)
+- ⚡ Fun fact: I like corgis!
 
 <!---
 dxnscrlt/dxnscrlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
