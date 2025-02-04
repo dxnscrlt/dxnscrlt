@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dxnscrlt
 - 👀 I’m interested in math, poetry, cooking, baking, karaoke
-- 🌱 I’m currently learning Python, abstract algebra, multivariable calculus
+- 🌱 I’m currently learning Java, Python, bot development, and real analysis
 - 💞️ I’m looking to collaborate on [TBD]
 - 📫 How to reach me [TBD]
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like corgis!
 
 <!---
