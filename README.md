@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dxnscrlt
 - 👀 I’m interested in math, poetry, cooking, baking, karaoke
-- 🌱 I’m currently learning Java, Python, bot development, and real analysis
+- 🌱 I’m currently learning Python, Java, C++, MATLAB, bot development, and numerical analysis
 - 💞️ I’m looking to collaborate on [TBD]
 - 📫 How to reach me [TBD]
 - 😄 Pronouns: he/him/his
